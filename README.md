@@ -1,7 +1,8 @@
 # FreeXMC-hw
 
-**Notice: This repository is on Github, which I don't use as my primary VCS host! If there are outdated files, they're on gitlab.**
+An open source, open hardware Brushless DC Motor (BLDC) drive and control stack using the XMC4400 series microcontrollers. 
 
-An open source, open hardware Brushless DC Motor (BLDC) drive and control stack using the XMC4400 series microcontrollers. This repository contains all of the hardware files. 
+This repository contains all of the hardware files. 
 
-I'll be releasing all of my work here after the 9/9/22. 
+You can find my current progress on the ![Hackaday](https://hackaday.io/project/187204-freexmc) log. 
+Every time a board gets tested, the files used for that will appear in this repository as well (under the development branches).
